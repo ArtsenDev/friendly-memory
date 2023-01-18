@@ -36,6 +36,7 @@
 ## Services
 <a href="https://www.hetzner.com/"><img src="https://user-images.githubusercontent.com/3468354/142232895-bf3542af-74bd-41e0-a373-3847e8a7c14a.png" style="height:64px"/></a>
 <a href="https://aws.amazon.com/"><img src="https://user-images.githubusercontent.com/3468354/142232085-084bd8a2-447a-48c2-a1e5-cf1c396bf9c2.png" style="height:64px"/></a>
+<a href="https://learn.microsoft.com/en-us/azure/?product=popular"><img src="https://www.pngfind.com/pngs/m/597-5975946_microsoft-azure-logo-svg-hd-png-download.png" style="height:64px"/></a>
 
 ## Editors
   
