@@ -9,19 +9,14 @@
 <a href="https://www.w3schools.com/html/"><img src="https://user-images.githubusercontent.com/3468354/197044699-82a4ac8d-49a6-4f61-8cdb-40458fd516ca.png" style="height:64px"/></a>
 <a href="https://www.w3schools.com/css/default.asp"><img src="https://user-images.githubusercontent.com/3468354/197044826-d8150ee8-3d22-459f-a047-a26607380197.png" style="height:64px"/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://user-images.githubusercontent.com/3468354/197045106-21a2a461-7691-4ab5-8ff2-f2f765627c31.png" style="height:64px"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/3468354/149840900-7199b7ae-a189-43c5-adcd-031bb57a7df3.png" style="height:64px"/></a>
-<a href="https://www.assemblyscript.org/"><img src="https://user-images.githubusercontent.com/3468354/149842543-ed85d328-16da-4747-9b0c-6eaad26cf064.png" style="height:64px"/></a>
 
 
 ## Java Technologies
 <a href="http://tomcat.apache.org/"><img src="https://user-images.githubusercontent.com/3468354/144680890-71cae22c-4aa7-4186-b743-6ae27ad7fd04.png"/></a>
-<a href="https://spring.io/projects/spring-framework"><img src="https://user-images.githubusercontent.com/3468354/144680846-f1118eac-c19c-478e-87b8-c2368a807385.png"/></a>
 <a href="https://gradle.com/"><img src="https://user-images.githubusercontent.com/3468354/144680789-078bdcc8-2e6b-4fa4-9c43-8018c3aa7f72.png"/></a>
 <a href="https://maven.apache.org/"><img src="https://user-images.githubusercontent.com/3468354/144680577-94bf66cf-feb5-45e6-9aae-bb1eefadde5d.png"/></a>
-<a href="http://hibernate.org/"><img src="https://user-images.githubusercontent.com/3468354/144680724-5b226f05-1ec3-4c47-98ff-2bfb24fc8950.png"/></a>
 
 ## Web Technologies
-<a href="https://angular.io/"><img title="Angular" src="https://user-images.githubusercontent.com/3468354/149840767-fec692c9-31a8-4b64-912d-f993d58f469e.png" style="height:64px"/></a>
 <a href="https://getbootstrap.com/"><img title="Bootstrap" src="https://user-images.githubusercontent.com/3468354/143285136-3b7219d6-9b18-40fa-83be-f43fbc89fc38.png" style="height:64px"/></a>
 <a href="https://jquery.com/"><img title="JQuery" src="https://user-images.githubusercontent.com/3468354/197045536-58e7c142-2511-45a9-8fc4-94f586af2eea.png" style="height:64px"/></a>
 <a href="https://reactjs.org/"><img title="React" src="https://user-images.githubusercontent.com/3468354/197046012-074188d3-18cb-4c75-aca3-a97fdc747e02.png" style="height:64px"/></a>
@@ -54,10 +49,9 @@
 ## Operating Systems
 <a href="https://www.microsoft.com/en-us/windows">![Windows](https://user-images.githubusercontent.com/3468354/136398706-d97f065d-4b97-453f-9808-bfa6e87eae16.png)</a>
 <a href="https://en.wikipedia.org/wiki/Linux"><img title="Linux" src="https://user-images.githubusercontent.com/3468354/197047718-f4a6db84-c7c7-49ea-956e-ede4d968f6d5.png" style="height:64px"/></a>
-<a href="https://www.apple.com/macos">![macOS](https://user-images.githubusercontent.com/3468354/136398828-c003e78e-3a18-4eff-8f33-1bb7cb52b4cd.png)</a>
 
 # Infrequently Asked Questions
 
 ## What's your favorite language right now?
-- C for performance applications
-- Go for general purpose applications 
+- C# for games 
+- SQL for data
