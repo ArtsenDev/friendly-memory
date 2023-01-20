@@ -1,4 +1,4 @@
-# Things I use or are familiar with:
+# Things I use or are familiar/learning:
 
 ## Languages
 
@@ -12,7 +12,6 @@
 
 
 ## Java Technologies
-<a href="http://tomcat.apache.org/"><img src="https://user-images.githubusercontent.com/3468354/144680890-71cae22c-4aa7-4186-b743-6ae27ad7fd04.png"/></a>
 <a href="https://gradle.com/"><img src="https://user-images.githubusercontent.com/3468354/144680789-078bdcc8-2e6b-4fa4-9c43-8018c3aa7f72.png"/></a>
 <a href="https://maven.apache.org/"><img src="https://user-images.githubusercontent.com/3468354/144680577-94bf66cf-feb5-45e6-9aae-bb1eefadde5d.png"/></a>
 
@@ -40,7 +39,6 @@
 
 ## Editors
   
-<a href="https://www.vim.org/"><img title="Vim" src="https://user-images.githubusercontent.com/3468354/197047866-06b5c789-08d8-4e96-8011-218e96d279af.png" style="height:64px"/></a>
 <a href="https://www.jetbrains.com/goland/"><img src="https://user-images.githubusercontent.com/3468354/149841950-37c6a5bd-c27f-43c3-9efa-2a4f0b0d5886.png" style="height:64px"/></a>
 <a href="https://www.jetbrains.com/idea/"><img title="IntelliJ" src="https://user-images.githubusercontent.com/3468354/197048109-ad892b1c-5709-48b1-98c1-3afe9d9b640e.png" style="height:64px"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/3468354/149842161-5cff6494-c0c7-4f6d-ba89-882be3869280.png" style="height:64px"/></a>
